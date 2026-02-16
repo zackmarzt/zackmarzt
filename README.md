@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zackmarzt
 - 👀 I’m interested in Frontend
-- 🌱 I’m currently learning HTML, CSS and JS
+- 🌱 I’m currently learning TypeScript
 - 💞️ I’m looking to collaborate on frontend projects
 - 📫 Contact me on mail
 - 😄 Pronouns: he/hem
